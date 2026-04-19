@@ -36,7 +36,7 @@ Click **Upload** and select the notebook file.
 
 **4. Upload the dataset (Excel file)**
 Download `default of credit card clients.xls` from UCI.
-In Colab, click the folder icon → Upload the file into `/content`.
+In Colab, click the folder icon → Upload the file into `/sample_data`.
 
 **5. Install required libraries**
 
