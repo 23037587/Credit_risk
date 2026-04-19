@@ -1,4 +1,4 @@
-# Credit Risk Default Prediction
+# Predicting Credit Default Using Customer Financial History
 
 **MSc Data Science Project**
 
