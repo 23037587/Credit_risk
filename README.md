@@ -55,15 +55,3 @@ df = pd.read_excel("default of credit card clients.xls", header=1)
 
 Click **Runtime → Run all**
 
----
-
-## Project Workflow
-
-The notebook follows these steps:
-
-* Data inspection and cleaning
-* Exploratory Data Analysis (EDA)
-* Handling class imbalance with SMOTE
-* Training and comparing multiple models
-* Selecting the best model using F1-score and ROC-AUC
-* Model interpretation using SHAP and LIME
