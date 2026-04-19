@@ -1,8 +1,8 @@
-# Credit Card Default Prediction
+# Credit Risk Default Prediction
 
 **MSc Data Science Project**
 
-This project investigates whether customer repayment history and financial behaviour can be used to predict credit card default using a machine learning approach.
+This project investigates whether customer repayment history and financial behaviour can be used to predict credit risk default using a machine learning approach.
 
 The objective is to build a clear and explainable model that can detect customers at risk of default.
 
